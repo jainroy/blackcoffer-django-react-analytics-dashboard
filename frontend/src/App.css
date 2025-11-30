@@ -1,0 +1,12 @@
+.chart-container {
+  height: 400px !important;
+  overflow: hidden;
+}
+
+.card-body {
+  padding: 1rem;
+}
+
+html, body {
+  overflow-x: hidden;
+}
